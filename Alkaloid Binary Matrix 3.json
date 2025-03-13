@@ -1,0 +1,13 @@
+{
+	"file": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTi5mQCA7pDqZo2NL1bcSGf2V5jIFcNpCSM2ZFD27l5p1YDUTRzPHeLfDU4e4B_DScsT46v0rL1LZOk/pub?output=csv",
+	"name": "AlkaloidMatrix",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Site/Stage" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 10 }
+	]
+}
